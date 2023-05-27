@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mayur5c/contest_3/static/css/main.5fe1ea35.css",
+    "main.js": "/mayur5c/contest_3/static/js/main.f728b49c.js",
+    "index.html": "/mayur5c/contest_3/index.html",
+    "main.5fe1ea35.css.map": "/mayur5c/contest_3/static/css/main.5fe1ea35.css.map",
+    "main.f728b49c.js.map": "/mayur5c/contest_3/static/js/main.f728b49c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe1ea35.css",
+    "static/js/main.f728b49c.js"
+  ]
+}
